@@ -1,3 +1,3 @@
 # Sample E-Commerce
 
-Demo live at: [sample-ecommerce-theta.vercel.app](http://sample-ecommerce-theta.vercel.app/)
+Demo live at: [sample-ecommerce-luigircruz.vercel.app](https://sample-ecommerce-luigircruz.vercel.app/)
